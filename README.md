@@ -1,2 +1,2 @@
-# https://AlexKolev.github.io/rsschool-cv/cv rsschool-cv
+# https://github.com/AlexKolev/rsschool-cv/blob/gh-pages/cv.md
 repo for CV rsschool-cv practice
